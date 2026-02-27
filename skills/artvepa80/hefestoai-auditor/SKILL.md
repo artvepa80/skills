@@ -1,6 +1,6 @@
 ---
 name: hefestoai-auditor
-version: "2.1.0"
+version: "2.2.0"
 description: "Static code analysis tool. Detects security vulnerabilities, code smells, and complexity issues across 17 languages. All analysis runs locally — no code leaves your machine."
 metadata:
   {
